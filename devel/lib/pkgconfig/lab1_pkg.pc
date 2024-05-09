@@ -1,0 +1,8 @@
+prefix=/home/anurag/catkin_ws/devel
+
+Name: lab1_pkg
+Description: Description of lab1_pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

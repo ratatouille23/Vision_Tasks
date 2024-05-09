@@ -1,0 +1,2 @@
+lab1_pkg
+-DCATKIN_DEVEL_PREFIX=/home/anurag/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/anurag/catkin_ws/install -G Unix Makefiles
